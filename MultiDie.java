@@ -1,3 +1,4 @@
+package craps;
 import java.util.Random;
 
 public class MultiDie
